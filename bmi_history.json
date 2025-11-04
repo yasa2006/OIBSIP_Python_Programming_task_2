@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Yasa",
+        "date": "2025-11-04 18:04",
+        "weight_kg": 45.0,
+        "height_cm": 157.0,
+        "bmi": 18.26,
+        "category": "Underweight"
+    },
+    {
+        "name": "Siddhu",
+        "date": "2025-11-04 18:05",
+        "weight_kg": 45.0,
+        "height_cm": 165.0,
+        "bmi": 16.53,
+        "category": "Underweight"
+    },
+    {
+        "name": "Shanmukha",
+        "date": "2025-11-04 18:05",
+        "weight_kg": 45.0,
+        "height_cm": 153.0,
+        "bmi": 19.22,
+        "category": "Normal Weight"
+    }
+]

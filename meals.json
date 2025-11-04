@@ -1,0 +1,30 @@
+{
+  "breakfast": [
+    {"name": "Oatmeal with Fruits", "calories": 250},
+    {"name": "Eggs and Toast", "calories": 350},
+    {"name": "Smoothie Bowl", "calories": 300},
+    {"name": "Greek Yogurt with Granola", "calories": 280},
+    {"name": "Avocado Toast", "calories": 320}
+  ],
+  "lunch": [
+    {"name": "Grilled Chicken Salad", "calories": 350},
+    {"name": "Turkey Sandwich", "calories": 400},
+    {"name": "Quinoa Bowl with Veggies", "calories": 450},
+    {"name": "Tuna Wrap", "calories": 380},
+    {"name": "Vegetable Stir Fry with Rice", "calories": 420}
+  ],
+  "dinner": [
+    {"name": "Baked Salmon with Broccoli", "calories": 500},
+    {"name": "Chicken Stir Fry", "calories": 450},
+    {"name": "Vegetable Pasta", "calories": 480},
+    {"name": "Grilled Steak with Salad", "calories": 550},
+    {"name": "Lentil Soup", "calories": 350}
+  ],
+  "snacks": [
+    {"name": "Apple", "calories": 80},
+    {"name": "Handful of Almonds", "calories": 200},
+    {"name": "Banana", "calories": 100},
+    {"name": "Carrot Sticks with Hummus", "calories": 150},
+    {"name": "Protein Bar", "calories": 180}
+  ]
+}
